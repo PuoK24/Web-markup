@@ -1,0 +1,22 @@
+body{
+    background-color: darkgrey;
+}
+img{
+    src: "img/puok.jpg.jpg" ; 
+    height: 300;
+    width: 3600;
+    border-radius: 50;
+}
+aside{
+    width: 800px;
+    padding-right: 15px;
+    margin-right: 15;
+    float: right;
+}
+h1{
+    color: blue;
+}
+p{
+    text-align: center;
+    color: lightgrey;
+}
