@@ -5,7 +5,7 @@ img{
     src: "img/puok.jpg.jpg" ; 
     height: 300;
     width: 3600;
-    border-radius: 50;
+    border-radius: 50px;
 }
 aside{
     width: 800px;
