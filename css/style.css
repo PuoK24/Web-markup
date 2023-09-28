@@ -1,10 +1,10 @@
 body{
-    background-color: darkgrey;
+    background-color: rgb(108, 159, 204);
 }
 img{
     src: "img/puok.jpg.jpg" ; 
-    height: 300;
-    width: 3600;
+    height: 150px;
+    width: 150px;
     border-radius: 70px;
 }
 aside{
@@ -21,4 +21,15 @@ p{
     color: lightgrey;
     margin-left: 50ex;
     margin-right: 50px;
+}
+header{
+    height: 20px;
+    width: 2300vh;
+    background-color: rgb(12, 18, 20);
+}
+
+footer{
+    height: 20px;
+    width: 230vh;
+    background-color: rgb(18, 18, 20);
 }
