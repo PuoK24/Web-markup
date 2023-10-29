@@ -1,5 +1,5 @@
-Student name: Puok Kamler
+Student name: Puok kamler
 Student number: 708783
-Student class: IT 1A
-GitHub Repository:
-GitHub Pages URL:
+Student class: IT1A
+GitHub Repository: https://github.com/PuoK24/Web-markup
+GitHub Pages URL: https://puok24.github.io/Web-markup/index.html
