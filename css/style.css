@@ -18,9 +18,9 @@
     flex-direction: column;
     max-width: 100%;
   }
-  h1, h2, p {
+  h1, h2 {
     display: flex;
-    flex-direction: column;
+    flex-direcion: column;
     font-size: 16px;
   }
   footer {
@@ -279,20 +279,23 @@ figure {
 /*This is style for activities page */
 
 .activitiesp {
-  height: 107.5rem;
+  height: 1800px;
   padding: 0;
 }
 .thirdp {
   float: right;
-  height: 25rem;
-  width: 31.25rem;
+  hight: 600px;
+  width: 520px;
   padding-top: 0;
-  padding-right: 1.25rem;
+  padding-bottom: 0;
+  padding-right: 1rem;
   text-align: left;
+  line-height: normal;
 }
 .largep4 {
+  position: relative;
   float: left;
-  height: 56.875rem;
+  height: 990px;
   width: 59.375rem;
   padding: 0;
 }
